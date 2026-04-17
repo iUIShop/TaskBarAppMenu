@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+/.vs
+/TaskBarAppMenu/TaskBarAppMenu.aps
+/TaskBarAppMenu/TaskBarAppMenu.vcxproj.user
+/TaskBarAppMenu/x64/Debug
